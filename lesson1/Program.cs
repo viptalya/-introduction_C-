@@ -12,7 +12,7 @@ namespace lesson1
 
             var date = DateTime.Now;
 
-            Console.WriteLine($"Здравсвуйте {name}, сейчас {date}");
+            Console.WriteLine($"Здравствуйте {name}, сейчас {date}");
         }
     }
 }
